@@ -40,7 +40,7 @@ Site/
 ### This is my contact.html
 ![alt text](/img/preview3.png)
 
-Check out my page [Click me](https://kharpaw.github.io/EverestRoast/)
+Check out my page [Click me](https://kharpaw.github.io/Nepali-Coffee/)
 
 
 
